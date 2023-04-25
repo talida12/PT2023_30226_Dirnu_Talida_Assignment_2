@@ -1,0 +1,46 @@
+Time: 200
+Average waiting time: 59,00
+Average service time: 5,95
+Peak hour: 99
+
+QUEUE 1: Task 640 (7s) | Task 878 (3s) | Task 199 (8s) | Task 389 (4s) | Task 511 (7s) | Task 750 (7s) | Task 163 (9s) | Task 370 (9s) | Task 435 (6s) | Task 730 (9s) | Task 158 (5s) | Task 262 (7s) | Task 17 (4s) | Task 728 (3s) | Task 634 (6s) | Task 859 (5s) | Task 330 (9s) | Task 33 (5s) | Task 537 (8s) | 
+
+QUEUE 2: Task 9 (7s) | Task 992 (5s) | Task 462 (7s) | Task 746 (5s) | Task 122 (5s) | Task 887 (9s) | Task 499 (9s) | Task 405 (9s) | Task 473 (7s) | Task 106 (6s) | Task 784 (3s) | Task 360 (6s) | Task 747 (6s) | Task 656 (9s) | Task 235 (5s) | Task 891 (3s) | Task 165 (9s) | Task 560 (7s) | 
+
+QUEUE 3: Task 274 (5s) | Task 780 (5s) | Task 385 (7s) | Task 507 (6s) | Task 546 (5s) | Task 512 (4s) | Task 879 (6s) | Task 319 (4s) | Task 545 (5s) | Task 559 (5s) | Task 790 (9s) | Task 259 (3s) | Task 788 (4s) | Task 772 (4s) | Task 394 (6s) | Task 622 (5s) | 
+
+QUEUE 4: Task 670 (3s) | Task 225 (6s) | Task 565 (5s) | Task 800 (5s) | Task 252 (3s) | Task 815 (3s) | Task 359 (6s) | Task 742 (6s) | Task 534 (3s) | Task 205 (4s) | Task 953 (8s) | Task 851 (8s) | Task 569 (5s) | Task 865 (5s) | Task 279 (8s) | Task 51 (6s) | Task 797 (8s) | Task 686 (3s) | 
+
+QUEUE 5: Task 716 (9s) | Task 614 (4s) | Task 841 (6s) | Task 476 (8s) | Task 909 (7s) | Task 786 (6s) | Task 582 (5s) | Task 472 (5s) | Task 536 (3s) | Task 997 (7s) | Task 965 (8s) | Task 297 (7s) | Task 317 (9s) | Task 372 (9s) | Task 871 (5s) | Task 825 (5s) | Task 870 (9s) | 
+
+QUEUE 6: Task 706 (8s) | Task 919 (5s) | Task 820 (6s) | Task 956 (9s) | Task 43 (9s) | Task 837 (8s) | Task 645 (6s) | Task 648 (5s) | Task 12 (6s) | Task 701 (7s) | Task 368 (8s) | Task 671 (9s) | Task 920 (6s) | Task 365 (9s) | Task 886 (6s) | Task 52 (4s) | 
+
+QUEUE 7: Task 765 (8s) | Task 242 (9s) | Task 758 (6s) | Task 824 (3s) | Task 229 (8s) | Task 386 (9s) | Task 850 (4s) | Task 62 (6s) | Task 960 (3s) | Task 726 (7s) | Task 8 (3s) | Task 739 (3s) | Task 592 (6s) | Task 715 (4s) | Task 479 (5s) | Task 425 (8s) | Task 348 (8s) | Task 391 (9s) | 
+
+QUEUE 8: Task 895 (6s) | Task 759 (3s) | Task 26 (3s) | Task 963 (5s) | Task 139 (5s) | Task 440 (8s) | Task 616 (7s) | Task 186 (6s) | Task 379 (7s) | Task 732 (9s) | Task 31 (3s) | Task 828 (7s) | Task 623 (4s) | Task 140 (6s) | Task 813 (6s) | Task 923 (6s) | Task 123 (6s) | Task 402 (8s) | 
+
+QUEUE 9: Task 571 (9s) | Task 969 (8s) | Task 451 (9s) | Task 669 (4s) | Task 89 (8s) | Task 409 (4s) | Task 748 (7s) | Task 866 (3s) | Task 135 (6s) | Task 804 (9s) | Task 914 (9s) | Task 577 (8s) | Task 247 (3s) | Task 478 (7s) | Task 189 (4s) | Task 506 (6s) | 
+
+QUEUE 10: Task 99 (7s) | Task 968 (5s) | Task 586 (5s) | Task 459 (7s) | Task 180 (9s) | Task 679 (6s) | Task 428 (3s) | Task 776 (6s) | Task 77 (6s) | Task 946 (3s) | Task 146 (5s) | Task 839 (3s) | Task 950 (8s) | Task 519 (3s) | Task 249 (4s) | Task 23 (4s) | Task 609 (9s) | 
+
+QUEUE 11: Task 283 (7s) | Task 253 (9s) | Task 666 (4s) | Task 596 (5s) | Task 190 (8s) | Task 475 (3s) | Task 693 (4s) | Task 460 (7s) | Task 532 (7s) | Task 857 (7s) | Task 103 (3s) | Task 902 (5s) | Task 38 (7s) | Task 986 (7s) | Task 104 (3s) | Task 572 (6s) | Task 889 (9s) | Task 646 (5s) | 
+
+QUEUE 12: Task 755 (8s) | Task 740 (4s) | Task 39 (9s) | Task 695 (6s) | Task 631 (9s) | Task 181 (3s) | Task 696 (4s) | Task 513 (7s) | Task 916 (6s) | Task 120 (7s) | Task 299 (3s) | Task 924 (7s) | Task 57 (3s) | Task 639 (5s) | Task 251 (8s) | Task 589 (6s) | Task 904 (9s) | Task 660 (5s) | 
+
+QUEUE 13: Task 782 (8s) | Task 888 (7s) | Task 292 (7s) | Task 643 (9s) | Task 741 (9s) | Task 531 (8s) | Task 593 (7s) | Task 236 (8s) | Task 325 (4s) | Task 944 (9s) | Task 210 (6s) | Task 781 (4s) | Task 454 (9s) | Task 605 (5s) | Task 949 (6s) | Task 703 (8s) | 
+
+QUEUE 14: Task 578 (6s) | Task 455 (6s) | Task 144 (3s) | Task 900 (8s) | Task 908 (3s) | Task 378 (9s) | Task 684 (7s) | Task 294 (3s) | Task 760 (8s) | Task 576 (4s) | Task 311 (6s) | Task 219 (5s) | Task 443 (7s) | Task 966 (4s) | Task 981 (6s) | Task 544 (8s) | Task 704 (3s) | Task 735 (6s) | 
+
+QUEUE 15: Task 496 (8s) | Task 955 (3s) | Task 437 (7s) | Task 972 (8s) | Task 687 (5s) | Task 110 (7s) | Task 580 (7s) | Task 650 (7s) | Task 416 (9s) | Task 481 (7s) | Task 32 (3s) | Task 127 (4s) | Task 465 (5s) | Task 999 (7s) | Task 587 (6s) | Task 836 (5s) | 
+
+QUEUE 16: Task 597 (7s) | Task 94 (4s) | Task 75 (4s) | Task 533 (6s) | Task 867 (6s) | Task 293 (4s) | Task 204 (4s) | Task 583 (7s) | Task 61 (3s) | Task 727 (9s) | Task 280 (8s) | Task 675 (9s) | Task 157 (6s) | Task 334 (9s) | Task 557 (8s) | Task 767 (5s) | Task 221 (3s) | 
+
+QUEUE 17: Task 101 (4s) | Task 102 (3s) | Task 553 (9s) | Task 16 (9s) | Task 937 (8s) | Task 224 (8s) | Task 667 (7s) | Task 783 (7s) | Task 341 (7s) | Task 276 (6s) | Task 333 (8s) | Task 610 (6s) | Task 143 (7s) | Task 777 (7s) | Task 269 (6s) | 
+
+QUEUE 18: Task 174 (8s) | Task 137 (7s) | Task 568 (7s) | Task 967 (7s) | Task 326 (7s) | Task 277 (3s) | Task 842 (3s) | Task 806 (6s) | Task 434 (7s) | Task 538 (6s) | Task 45 (8s) | Task 403 (7s) | Task 635 (7s) | Task 258 (5s) | Task 892 (4s) | 
+
+QUEUE 19: Task 710 (9s) | Task 54 (9s) | Task 304 (5s) | Task 182 (8s) | Task 602 (6s) | Task 130 (4s) | Task 978 (7s) | Task 343 (7s) | Task 954 (8s) | Task 126 (9s) | Task 894 (5s) | Task 683 (3s) | Task 449 (9s) | Task 308 (6s) | Task 680 (7s) | Task 410 (3s) | 
+
+QUEUE 20: Task 310 (9s) | Task 651 (6s) | Task 363 (9s) | Task 340 (5s) | Task 432 (9s) | Task 97 (9s) | Task 714 (4s) | Task 996 (6s) | Task 697 (9s) | Task 197 (6s) | Task 509 (6s) | Task 854 (5s) | Task 734 (3s) | Task 68 (5s) | Task 429 (9s) | 
+
+

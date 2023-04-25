@@ -1,0 +1,10 @@
+Time: 60
+Average waiting time: 0,00
+Average service time: 2,50
+Peak hour: 4
+
+QUEUE 1: 
+
+QUEUE 2: 
+
+

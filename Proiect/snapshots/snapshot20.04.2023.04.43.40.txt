@@ -1,0 +1,29 @@
+Time: 68
+Average waiting time: 0,70
+Average service time: 5,13
+Peak hour: 32
+
+Waiting tasks: 
+
+
+QUEUE 1: 
+
+QUEUE 2: 
+
+QUEUE 3: 
+
+QUEUE 4: 
+
+QUEUE 5: 
+
+QUEUE 6: 
+
+QUEUE 7: 
+
+QUEUE 8: 
+
+QUEUE 9: 
+
+QUEUE 10: 
+
+

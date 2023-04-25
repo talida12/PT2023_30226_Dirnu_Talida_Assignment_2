@@ -1,0 +1,16 @@
+Time: 60
+Average waiting time: 2,78
+Average service time: 4,40
+Peak hour: 19
+
+QUEUE 1: 
+
+QUEUE 2: 
+
+QUEUE 3: 
+
+QUEUE 4: 
+
+QUEUE 5: 
+
+
